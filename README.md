@@ -1,4 +1,4 @@
-# EMOTIONIQ — Real-Time Human Emotion Detection (No PyAV Build)
+# EMOTIONIQ — Real-Time Human Emotion Detection 
 
 ## Overview
 Snapshot-based emotion detection app for Streamlit that does not require `av` or `streamlit-webrtc`. Supports browser camera snapshots, image upload, and a desktop-only OpenCV webcam preview.
